@@ -1,6 +1,6 @@
 # csPortfolio
 
-* WebPage [here](https://erdmannl.github.io/lightning2/index.html)
+* WebPage [here](https://erdmannl.github.io/calvin/CalvinTheCat.html)
 * Lightning Java [here](https://erdmannl.github.io/lightning2/index.html)
 * Lightning JS [here](https://erdmannl.github.io/lightning2/lighteningscript/index.html)
 
