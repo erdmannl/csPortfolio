@@ -2,7 +2,7 @@
 
 * WebPage [here](https://erdmannl.github.io/lightning2/index.html)
 * Lightning Java [here](https://erdmannl.github.io/lightning2/index.html)
-* Lightning JS [here](https://erdmannl.github.io/lightning2/index.html)
+* Lightning JS [here](https://erdmannl.github.io/lightning2/lighteningscript/index.html)
 
 ```java
 
