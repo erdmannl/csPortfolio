@@ -3,7 +3,7 @@
 * WebPage [here](https://erdmannl.github.io/calvin/CalvinTheCat.html)
 * Lightning Java [here](https://erdmannl.github.io/lightning2/index.html)
 * Lightning JS [here](https://erdmannl.github.io/lightning2/lighteningscript/index.html)
-
+* U of M CS Presentation [here](https://docs.google.com/presentation/d/1P0e7npIIO5F0kq6ZVo49WaS7JMy5DjvYTParKBN413U/edit?usp=sharing)
 ```java
 
   while(end6Y<350){
