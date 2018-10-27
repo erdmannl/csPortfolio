@@ -1,4 +1,4 @@
-# csPortfolio
+# Lara Erdmann's csPortfolio
 
 * WebPage [here](https://erdmannl.github.io/calvin/CalvinTheCat.html)
 * Lightning Java [here](https://erdmannl.github.io/lightning2/index.html)
@@ -9,13 +9,29 @@
 
 ```java
 
-  while(end6Y<350){
-    
-     end6Y= start6Y + (int)(Math.random()*10);
-     end6X = start6X + (int)((Math.random()*19)-9);
-     line(start6X, start6Y, end6X, end6Y);
-     start6X=end6X;
-     start6Y= end6Y;
-       
-  } 
+ class OddballParticle implements particle {
+  double x, y, speed;
+  float colr;
+
+  OddballParticle() {
+    x=1;
+    y=height/2;
+  }
+  void move() {
+    x+=2;
+    y+=Math.sin(x)*50;
+
+    if (x>600) {
+      x=0;
+      y=height/2;
+    }
+
+    colr=map(mouseX, 0, width, 10, 590);
+  }
+
+  void show() {
+    fill(255, 0, colr);
+    ellipse((float)x, (float)y, 10, 10);
+  }
+}
 ```
