@@ -1,6 +1,9 @@
 # Lara Erdmann's csPortfolio
-
-* WebPage [here](https://erdmannl.github.io/calvin/CalvinTheCat.html)
+<details>
+ <summary>* WebPage [here](https://erdmannl.github.io/calvin/CalvinTheCat.html)</summary>
+ I really enjoyed this project. I enjoyed working with the design and layout of everything. The main challenge I had was working with the image flipping when the mouse goes over it and getting that function to work properly. I think that the aesthetic of the page is pleasent and well done. 
+</details>
+ 
 * Lightning Java [here](https://erdmannl.github.io/lightning2/index.html)
 * Lightning JS [here](https://erdmannl.github.io/lightning2/lighteningscript/index.html)
 * U of M CS Presentation [here](https://docs.google.com/presentation/d/e/2PACX-1vTZek2lQ7Txn6jkje4JWAWMJb9cbUNHL4Q0ngFRjaAl3cH6w1VBKqrqF_9mtU1TE0mAaK-gDh9VEwfv/pub?start=true&loop=true&delayms=10000)
