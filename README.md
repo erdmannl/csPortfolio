@@ -2,7 +2,7 @@
 <details>
  <summary>WebPage</summary>
  *WebPage [here](https://erdmannl.github.io/calvin/CalvinTheCat.html)
- I really enjoyed this project. I enjoyed working with the design and layout of everything. The main challenge I had was working with the image flipping when the mouse goes over it and getting that function to work properly. I think that the aesthetic of the page is pleasent and well done. 
+ In this project my goal was to create an aesthetically pleasing and clean cut webpage. I enjoyed working with the html and the css, as I don't usually spend much time coding in these languages. The hardest part was finding out a way to make the image flip when the mouse goes over it.
 </details>
  
 <details>
