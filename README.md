@@ -33,7 +33,7 @@ I had a lot of fun making and giving my presentation on the Universtiy of Minnes
 <details>
  <summary>Starfield</summary>
 * Starfield [here](https://erdmannl.github.io/starfield5/)
- I had a lot of fun with Starfield. My final project came within the last few days of the project after not being happy with my original work. I wanted it to feel like I was moving through space and I just wasn't getting that. So I utilized the map method in different aspects of the code to help give the appearance of 3d in 2d. 
+ My knowledge of interfaces and understanding of how helpful thier methods can be grew signifcantly during this lab. I learned how map works and was able to use it to create the appearance of 3d movement in 2d and also adjust speed of movement depending on the y-position of the mouse.
  </details>
  
 <details>
