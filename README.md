@@ -1,25 +1,25 @@
 # Lara Erdmann's csPortfolio
 <details>
  <summary>WebPage</summary>
- *WebPage [here](https://erdmannl.github.io/calvin/CalvinTheCat.html)
+ *WebPage[here](https://erdmannl.github.io/calvin/CalvinTheCat.html)
  In this project my goal was to create an aesthetically pleasing and clean cut webpage. I enjoyed working with the html and the css, as I don't usually spend much time coding in these languages. The hardest part was finding out a way to make the image flip when the mouse goes over it.
 </details>
 
 <details>
  <summary>College Presentation</summary> 
-* U of M CS Presentation [here](https://docs.google.com/presentation/d/e/2PACX-1vTZek2lQ7Txn6jkje4JWAWMJb9cbUNHL4Q0ngFRjaAl3cH6w1VBKqrqF_9mtU1TE0mAaK-gDh9VEwfv/pub?start=true&loop=true&delayms=10000)
+* U of M CS Presentation[here](https://docs.google.com/presentation/d/e/2PACX-1vTZek2lQ7Txn6jkje4JWAWMJb9cbUNHL4Q0ngFRjaAl3cH6w1VBKqrqF_9mtU1TE0mAaK-gDh9VEwfv/pub?start=true&loop=true&delayms=10000)
 I had a lot of fun making and giving my presentation on the Universtiy of Minnesota's computer science department. I love the school and enjoyed the opportunity to learn more about the school and get an even better feel for all that I will be experiencing the next few years. 
  </details>
 
 <details>
  <summary>Chemotaxis</summary>
-* Chemotaxis [here](https://erdmannl.github.io/chemotaxis4/)
+* Chemotaxis[here](https://erdmannl.github.io/chemotaxis4/)
  In this lab too I encountered problems with loading different images in Java. The solution that I came up with was adding a parameter for a PImage in one of my constructors, which then allowed me to use an image of my cats face as an object. 
  </details>
  
 <details>
  <summary>Starfield</summary>
-* Starfield [here](https://erdmannl.github.io/starfield5/)
+* Starfield[here](https://erdmannl.github.io/starfield5/)
  My knowledge of interfaces and understanding of how helpful thier methods can be grew signifcantly during this lab. I learned how map works and was able to use it to create the appearance of 3d movement in 2d and also adjust speed of movement depending on the y-position of the mouse.
  </details>
  
