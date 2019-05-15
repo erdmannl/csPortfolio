@@ -18,7 +18,10 @@ I had a lot of fun making and giving my presentation on the Universtiy of Minnes
 
 <details>
  <summary>Chemotaxis</summary>
-* Chemotaxis[here](https://erdmannl.github.io/chemotaxis4/)
+* Chemotaxis
+ 
+ [here](https://erdmannl.github.io/chemotaxis4/)
+ 
  In this lab too I encountered problems with loading different images in Java. The solution that I came up with was adding a parameter for a PImage in one of my constructors, which then allowed me to use an image of my cats face as an object. 
  </details>
  
