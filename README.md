@@ -9,7 +9,9 @@
 
 <details>
  <summary>College Presentation</summary> 
-* U of M CS Presentation[here](https://docs.google.com/presentation/d/e/2PACX-1vTZek2lQ7Txn6jkje4JWAWMJb9cbUNHL4Q0ngFRjaAl3cH6w1VBKqrqF_9mtU1TE0mAaK-gDh9VEwfv/pub?start=true&loop=true&delayms=10000)
+* U of M CS Presentation
+ 
+ [here](https://docs.google.com/presentation/d/e/2PACX-1vTZek2lQ7Txn6jkje4JWAWMJb9cbUNHL4Q0ngFRjaAl3cH6w1VBKqrqF_9mtU1TE0mAaK-gDh9VEwfv/pub?start=true&loop=true&delayms=10000)
 I had a lot of fun making and giving my presentation on the Universtiy of Minnesota's computer science department. I love the school and enjoyed the opportunity to learn more about the school and get an even better feel for all that I will be experiencing the next few years. 
  </details>
 
@@ -21,7 +23,9 @@ I had a lot of fun making and giving my presentation on the Universtiy of Minnes
  
 <details>
  <summary>Starfield</summary>
-* Starfield[here](https://erdmannl.github.io/starfield5/)
+* Starfield
+ 
+ [here](https://erdmannl.github.io/starfield5/)
  My knowledge of interfaces and understanding of how helpful thier methods can be grew signifcantly during this lab. I learned how map works and was able to use it to create the appearance of 3d movement in 2d and also adjust speed of movement depending on the y-position of the mouse.
  </details>
  
