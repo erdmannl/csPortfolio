@@ -1,6 +1,7 @@
 # Lara Erdmann's csPortfolio
 <details>
  <summary>WebPage</summary>
+ 
 [here](https://erdmannl.github.io/calvin/CalvinTheCat.html)
  
  In this project my goal was to create an aesthetically pleasing and clean cut webpage. I enjoyed working with the html and the css, as I don't usually spend much time coding in these languages. The hardest part was finding out a way to make the image flip when the mouse goes over it.
