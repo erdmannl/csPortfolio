@@ -9,7 +9,6 @@
 
 <details>
  <summary>College Presentation</summary> 
-* U of M CS Presentation
  
  [here](https://docs.google.com/presentation/d/e/2PACX-1vTZek2lQ7Txn6jkje4JWAWMJb9cbUNHL4Q0ngFRjaAl3cH6w1VBKqrqF_9mtU1TE0mAaK-gDh9VEwfv/pub?start=true&loop=true&delayms=10000)
  
@@ -18,7 +17,6 @@ I had a lot of fun making and giving my presentation on the Universtiy of Minnes
 
 <details>
  <summary>Chemotaxis</summary>
-* Chemotaxis
  
  [here](https://erdmannl.github.io/chemotaxis4/)
  
@@ -27,7 +25,6 @@ I had a lot of fun making and giving my presentation on the Universtiy of Minnes
  
 <details>
  <summary>Starfield</summary>
-* Starfield
  
  [here](https://erdmannl.github.io/starfield5/)
  
