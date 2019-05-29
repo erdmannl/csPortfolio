@@ -38,6 +38,14 @@ I had a lot of fun making and giving my presentation on the Universtiy of Minnes
  
  In this project I explored the map data structure by working with large data. I was hoping to examine the correlation between domestic abuse and the amount of explicit languiage towards women in rap, but was unable to find sufficent data for abuse statistics over the past few years. Instead I used the top 12 rap songs from the past 6 years and parsed through the lyrics, keeping count of derogatory terms used in regard to women. In doing this I hoped to see if there has been an increase in negative languag, but due to the limited data available I wasn't able to get as big as a collection as I would have liked. TO illustrate what I found, I crearted particle objects for each lyric with the red particles being negative words towards women, and the rest being neutral. This was my favorite project that I have done over the year as it connects coding with social awareness.
 </details>
+
+<details>
+ <summary> Final Project </summary>
+ 
+ [here] (https://github.com/erdmannl/fatErgos)
+ 
+ This is my final project of the year which combines part of the rowing community with a tree data structure. More information about the process and the project itself can be found in the link.
+</details>
  
 <details>
  <summary>Portfolio Questions</summary>
