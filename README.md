@@ -42,7 +42,7 @@ I had a lot of fun making and giving my presentation on the Universtiy of Minnes
 <details>
  <summary> Final Project </summary>
  
- [here] (https://github.com/erdmannl/fatErgos)
+ [here](https://github.com/erdmannl/fatErgos)
  
  This is my final project of the year which combines part of the rowing community with a tree data structure. More information about the process and the project itself can be found in the link.
 </details>
